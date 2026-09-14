@@ -1,6 +1,6 @@
 # Hi there 👋 I'm *uu-matter543*, you may call me *uu* or *uu-matter*
 
-🔭 **Currently working on**: Theoretical Computer Science / especially Formal Methods and System Verification
+🔭 **Currently working on**: Theoretical Computer Science / especially Formal Methods and Computing Complexity
 
 💬 **Ask me about**: Anything you are interested in my repositories and about SJTU
 
